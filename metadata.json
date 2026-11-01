@@ -1,0 +1,6 @@
+{
+  "name": "Бюро Переводов «ЛингваЭкспресс»",
+  "description": "Профессиональное агентство переводов: онлайн расчет и заказ, запись на очный визит в офис и интеллектуальный чат-бот консультант.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
